@@ -21,3 +21,5 @@ const duck = {
   challenge: "Building an AI for international program students"
 }
 ```
+
+### Would love to see a follow from you 😉
