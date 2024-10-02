@@ -1,7 +1,13 @@
 <h1> I'm Duck Quang. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ3cGM4c2phbDU3NzNxemJwMmUydWRwenV0ZDNrcXI2cDMxZm9kdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>
+  <em>
+  Founder & Developer at <a href="https://chatgpt.com/g/g-rEe2n3fCL-luno-ai">Luno.AI</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp6cDgyMGttcGQ4czV0aG9iNHgzcGF5bGpuZzdnbDF2dXB1cGx2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VqijlTdPVoA7ywD4Wc/giphy.gif" width="30">
+  
+  <br></br>
+  
+  Student-Athelete at <a href="https://thedeweyschools.edu.vn/en/">The Dewey Schools</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZzM2t6dmNwbnZzNmxsYWRseXNmdnJwNXczZW12ZjBnbDNzdXNtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4J9sNelyTpC9pJyjKx/giphy.gif" width="30"> 
+  </em>
+</p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
