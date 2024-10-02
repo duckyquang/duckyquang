@@ -2,7 +2,6 @@
 <p>
   <em>
   Founder & Developer at <a href="https://chatgpt.com/g/g-rEe2n3fCL-luno-ai">Luno.AI</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp6cDgyMGttcGQ4czV0aG9iNHgzcGF5bGpuZzdnbDF2dXB1cGx2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VqijlTdPVoA7ywD4Wc/giphy.gif" width="30">
-  <br></br>  
   Student-Athelete at <a href="https://thedeweyschools.edu.vn/en/">The Dewey Schools</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZzM2t6dmNwbnZzNmxsYWRseXNmdnJwNXczZW12ZjBnbDNzdXNtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4J9sNelyTpC9pJyjKx/giphy.gif" width="30"> 
   </em>
 </p>
