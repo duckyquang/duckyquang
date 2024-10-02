@@ -1,9 +1,9 @@
 <h1> I'm Duck Quang. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ3cGM4c2phbDU3NzNxemJwMmUydWRwenV0ZDNrcXI2cDMxZm9kdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="50"></h1>
 <p>
   <em>
-  Founder & Developer at <a href="https://chatgpt.com/g/g-rEe2n3fCL-luno-ai">Luno.AI</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp6cDgyMGttcGQ4czV0aG9iNHgzcGF5bGpuZzdnbDF2dXB1cGx2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VqijlTdPVoA7ywD4Wc/giphy.gif" width="30">
+  Founder & Developer at <a href="https://chatgpt.com/g/g-rEe2n3fCL-luno-ai">Luno.AI</a>
   <br>
-  Student-Athelete at <a href="https://thedeweyschools.edu.vn/en/">The Dewey Schools</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZzM2t6dmNwbnZzNmxsYWRseXNmdnJwNXczZW12ZjBnbDNzdXNtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4J9sNelyTpC9pJyjKx/giphy.gif" width="30"> 
+  Student-Athelete at <a href="https://thedeweyschools.edu.vn/en/">The Dewey Schools</a>
   </em>
 </p>
 
