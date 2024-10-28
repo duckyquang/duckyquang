@@ -13,10 +13,12 @@
 [![GitHub Duck Quang](https://img.shields.io/github/followers/duckyquang?label=follow&style=social)](https://github.com/duckyquang)
 <br>
 
-<a href="https://github.com/duckyquang/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=duckyquang&theme=dracula"/>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckyquang&theme=dracula&card_width=320&layout=compact"/>
-</a>
+<div align="left">
+  <a href="https://github.com/duckyquang/github-readme-stats">
+    <img height="150" src="https://streak-stats.demolab.com?user=duckyquang&locale=en&mode=daily&theme=dracula" alt="streak graph"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckyquang&theme=dracula&card_width=320&layout=compact" alt="languages"/>
+  </a>
+</div>
 
 ###
 
