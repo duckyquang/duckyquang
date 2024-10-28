@@ -1,4 +1,4 @@
-<h1> I'm Duck Quang. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ3cGM4c2phbDU3NzNxemJwMmUydWRwenV0ZDNrcXI2cDMxZm9kdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Duck Quang. </h1>
 <p>
   <em>
   Founder & Developer at <a href="https://chatgpt.com/g/g-rEe2n3fCL-luno-ai">Luno.AI</a>
@@ -9,7 +9,8 @@
 
 [![Linkedin: duckquang](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/duckquang/)
 [![GitHub Duck Quang](https://img.shields.io/github/followers/duckyquang?label=follow&style=social)](https://github.com/duckyquang)
-
+<br>
+[![Duck's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckyquang&theme=tokyonight)](https://github.com/duckyquang/github-readme-stats)
 
 ### File: duckquang.js
 
