@@ -11,7 +11,7 @@
 [![GitHub Duck Quang](https://img.shields.io/github/followers/duckyquang?label=follow&style=social)](https://github.com/duckyquang)
 <br>
 [![Duck's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckyquang&theme=dracula)](https://github.com/duckyquang/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckyquang)](https://github.com/duckyquang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckyquang&theme=dracula)](https://github.com/duckyquang/github-readme-stats)
 
 ### File: duckquang.js
 
