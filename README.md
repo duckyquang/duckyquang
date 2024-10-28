@@ -23,7 +23,7 @@ const duck = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node],
-  working-on: "Building an AI for international program students"
+  building: "Building an AI for international program students"
 }
 ```
 
