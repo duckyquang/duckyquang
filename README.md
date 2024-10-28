@@ -13,7 +13,7 @@
 
 <a href="https://github.com/duckyquang/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duckyquang&theme=dracula"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckyquang&theme=dracula&card_width=520&layout=compact"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckyquang&theme=dracula&card_width=320&layout=compact"/>
 </a>
 
 ### File: duckquang.js
