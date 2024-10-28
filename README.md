@@ -21,6 +21,7 @@
 ```javascript
 const duck = {
   pronouns: "he" | "him",
+  nationality: "Vietnam",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node],
   building: "Building an AI for international program students"
