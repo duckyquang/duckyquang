@@ -28,4 +28,4 @@ const duck = {
 }
 ```
 
-### Would love to see a follow from you 😉
+### Still learning.
