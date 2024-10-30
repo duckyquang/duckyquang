@@ -70,4 +70,4 @@ const duck = {
 }
 ```
 
-### Still learning.
+### Contact for more.
