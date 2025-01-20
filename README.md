@@ -4,6 +4,8 @@
   Founder & Developer at <a href="https://chatgpt.com/g/g-rEe2n3fCL-luno-ai">Luno.AI</a>
   <br>
   Student-Athelete at <a href="https://thedeweyschools.edu.vn/en/">The Dewey Schools</a>
+  <br>
+  President & Founder at <a href="https://www.instagram.com/deweycodingclub/">Dewey Coding Club</a>
   </em>
 </p>
 
