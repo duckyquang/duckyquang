@@ -66,9 +66,9 @@
 const duck = {
   pronouns: "he" | "him",
   nationality: "Vietnam",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node],
-  building: "Building an AI for international program students"
+  code: [Javascript, HTML, CSS, Python, Java, TypeScript],
+  tools: [React, Node, NextJS, PyTorch, TensorFlow, OpenCV, Figma],
+  building: "to be revealed..."
 }
 ```
 
