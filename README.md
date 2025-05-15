@@ -67,7 +67,7 @@ const duck = {
   pronouns: "he" | "him",
   nationality: "Vietnam",
   code: [Javascript, HTML, CSS, Python, Java, TypeScript],
-  tools: [React, Node, NextJS, PyTorch, TensorFlow, OpenCV, Figma],
+  tools: [React, Node, NextJS, TailwindCSS, PyTorch, TensorFlow, OpenCV, Pandas, FastAPI, Supabase, Firebase, Figma],
   building: "to be revealed..."
 }
 ```
