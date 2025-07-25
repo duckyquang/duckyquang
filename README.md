@@ -1,11 +1,11 @@
 <h1> Hi, I'm Duck Quang. </h1>
 <p>
   <em>
-  Founder & Developer at <a href="https://chatgpt.com/g/g-rEe2n3fCL-luno-ai">Luno.AI</a>
+  Co-Founder and COO @ Zyra
   <br>
-  Student-Athelete at <a href="https://thedeweyschools.edu.vn/en/">The Dewey Schools</a>
+  Founder @ Huzzlingo
   <br>
-  President & Founder at <a href="https://www.instagram.com/deweycodingclub/">Dewey Coding Club</a>
+  President & Founder @ Dewey Coding Club
   </em>
 </p>
 
