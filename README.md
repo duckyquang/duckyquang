@@ -1,11 +1,7 @@
 <h1> Hi, I'm Duck Quang. </h1>
 <p>
   <em>
-  Co-Founder and COO @ Zyra
-  <br>
-  Founder @ Huzzlingo
-  <br>
-  President & Founder @ Dewey Coding Club
+  Co-Founder @ 16s
   </em>
 </p>
 
