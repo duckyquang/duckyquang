@@ -1,13 +1,13 @@
 <h1> Hi, I'm Duck Quang. </h1>
 <p>
   <em>
-  Co-Founder @ 16s
+  Executive Director @ Synthica
   </em>
 </p>
 
 ###
 
-[![Linkedin: duckquang](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/duckquang/)
+[![Linkedin: duckquang](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/buiducquang/)
 [![GitHub Duck Quang](https://img.shields.io/github/followers/duckyquang?label=follow&style=social)](https://github.com/duckyquang)
 <br>
 
