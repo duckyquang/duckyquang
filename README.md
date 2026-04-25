@@ -1,7 +1,7 @@
 <h1> Hi, I'm Duck Quang. </h1>
 <p>
   <em>
-  AI/ML Researcher @ MIT, Stanford | Executive Directr @ Synthica, SAID Lab
+  AI/ML Researcher @ MIT, Stanford | Executive Director @ Synthica, SAID Lab
   </em>
 </p>
 
