@@ -1,4 +1,4 @@
-<h1> Hi, I'm Duck Quang. </h1>
+<h1> Hi, I'm Quang Bui (some call me Buno). </h1>
 <p>
   <em>
   AI/ML Researcher @ MIT, Stanford | Executive Director @ Synthica, SAID Lab
