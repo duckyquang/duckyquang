@@ -100,12 +100,12 @@ I care about **clarity in complex systems** — whether that's a model architect
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=duckyquang&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=duckyquang&theme=github_dark_dimmed&hide_border=true" alt="GitHub streak"/>
+<img height="165" src="./assets/stats.svg" alt="GitHub stats"/>
+<img height="165" src="./assets/streak.svg" alt="GitHub streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=duckyquang&theme=github_dark_dimmed&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages"/>
+<img height="165" src="./assets/top-langs.svg" alt="Top languages"/>
 
 </div>
 
@@ -113,7 +113,7 @@ I care about **clarity in complex systems** — whether that's a model architect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duckyquang&theme=github-dark-dimmed&hide_border=true&area=true" alt="Activity graph"/>
+<img src="./assets/activity-graph.svg" alt="Activity graph"/>
 
 </div>
 
