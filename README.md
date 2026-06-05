@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Quang%20Bui&fontSize=42&fontColor=e6edf3&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Researcher%20%C2%B7%20Builder%20%C2%B7%20Buno&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Quang%20Bui&fontSize=42&fontColor=e6edf3&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Researcher%20%C2%B7%20Builder%20%C2%B7%20Buno%20%2F%20Duck&descAlignY=55&descSize=16"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+for+Science;Opensourcing+paid+products;Making+research+approachable+for+all" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+for+Science;Open-sourcing+paid+products+for+no+reasons;Making+research+approachable+for+all" alt="Typing animation"/>
 </a>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 ## About Me
 
 ```text
-AI/ML Researcher  @  MIT · Stanford
+AI/ML Researcher  @  MIT · Stanford · UCLA
 Executive Director @  Synthica · SAID Lab
 ```
 
@@ -51,8 +51,8 @@ I care about **clarity in complex systems** — whether that's a model architect
 
 ### Currently
 
-- Advancing AI research across **MIT** and **Stanford** collaborations
-- Leading **Synthica** — AI integration and intelligent automation
+- Advancing AI research across **MIT**, **Stanford**, and **UCLA** collaborations
+- Leading **Synthica** — Making research approachable for everyone
 - Building **SAID Lab** — applied AI research and experimentation
 - Open to meaningful collaborations in AI, research, and product
 
@@ -64,9 +64,33 @@ I care about **clarity in complex systems** — whether that's a model architect
 
 ## Tech Stack
 
+### Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,r,matlab,git,docker,aws,linux,js,ts,react,nodejs,postgres,mongodb&perline=8" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,typescript,mysql&perline=8" alt="Languages"/>
+
+</div>
+
+### Tools & Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,scikitlearn&perline=8" alt="Core tools"/>
+
+<br/><br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0466C8?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SBERT](https://img.shields.io/badge/SBERT-FF6F00?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-059669?style=flat-square)
+![& more](https://img.shields.io/badge/&%20more-8B949E?style=flat-square)
 
 </div>
 
@@ -76,12 +100,12 @@ I care about **clarity in complex systems** — whether that's a model architect
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=duckyquang&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=duckyquang&theme=github_dark_dimmed&hide_border=true" alt="GitHub streak"/>
+<img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=duckyquang&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=duckyquang&theme=github_dark_dimmed&hide_border=true" alt="GitHub streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckyquang&theme=github_dark_dimmed&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=duckyquang&theme=github_dark_dimmed&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages"/>
 
 </div>
 
