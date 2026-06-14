@@ -25,7 +25,7 @@
 ## About Me
 
 ```text
-AI/ML Researcher  @  MIT · USC · UCLA · VNU
+AI/ML Researcher
 Executive Director @  Synthica · SAID Lab
 ```
 
