@@ -25,7 +25,8 @@
 ## About Me
 
 ```text
-AI/ML Researcher
+16 (not an unc sadly)
+AI/ML Researcher & Builder
 Executive Director @  Synthica · SAID Lab
 ```
 
