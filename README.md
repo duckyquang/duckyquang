@@ -52,7 +52,7 @@ I care about **clarity in complex systems** — whether that's a model architect
 
 ### Currently
 
-- Advancing AI research across **MIT**, **Stanford**, and **UCLA** collaborations
+- Collaborating with peers at **top institutes** to advance AI research
 - Leading **Synthica** — Making research approachable for everyone
 - Building **SAID Lab** — applied AI research and experimentation
 - Open to meaningful collaborations in AI, research, and product
