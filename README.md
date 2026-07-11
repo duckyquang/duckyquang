@@ -49,7 +49,7 @@ I'm **Quang Bui** — most people call me **Buno**. I work at the intersection o
 
 ### Currently
 
-- Collaborating with peers at **labss** to research AI/ML
+- Collaborating with peers at **labs** to research AI/ML
 - Leading **Synthica** — Making research approachable for everyone
 - Open to meaningful collaborations in AI, research, and product
 
