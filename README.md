@@ -27,12 +27,10 @@
 ```text
 16 (not an unc sadly)
 AI/ML Researcher & Builder
-Executive Director @  Synthica · SAID Lab
+Executive Director @  Synthica
 ```
 
-I'm **Quang Bui** — most people call me **Buno**. I work at the intersection of **research and production**: designing AI systems that are rigorous enough for the lab and robust enough for the real world.
-
-I care about **clarity in complex systems** — whether that's a model architecture, a research pipeline, or an organization building with AI. I lead, I build, and I stay close to the code.
+I'm **Quang Bui** — most people call me **Buno**. I work at the intersection of **research and production**: I research AI during the day and build open-source tools during the night.
 
 <br/>
 
@@ -42,19 +40,17 @@ I care about **clarity in complex systems** — whether that's a model architect
 
 ### Focus Areas
 
-- **Machine Learning & Deep Learning** — model design, training, evaluation
-- **AI Systems** — pipelines, deployment, and integration at scale
-- **Research Leadership** — bridging academia and applied AI
-- **Product & Strategy** — turning research into durable impact
+- **Theoretical ML** — model design, training, evaluation, mechinterp, XAI
+- **AI4Science** — applications of AI/ML into healthcare, biology, physics, and math
+- **Product** — opensourcing tools that people would want to use but are stopped by a paywall
 
     </td>
     <td valign="top" width="50%">
 
 ### Currently
 
-- Collaborating with peers at **top institutes** to advance AI research
+- Collaborating with peers at **labss** to research AI/ML
 - Leading **Synthica** — Making research approachable for everyone
-- Building **SAID Lab** — applied AI research and experimentation
 - Open to meaningful collaborations in AI, research, and product
 
     </td>
