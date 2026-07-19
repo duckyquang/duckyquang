@@ -30,7 +30,7 @@ AI/ML Researcher & Builder
 Executive Director @  Synthica
 ```
 
-I'm **Quang Bui** — most people call me **Buno**. I work at the intersection of **research and production**: I research AI during the day and build open-source tools during the night.
+I'm **Quang Bui** but most people me **Buno**. I work at the intersection of **research and production**: I research AI during the day and build open-source tools during the night.
 
 <br/>
 
