@@ -26,8 +26,8 @@
 
 ```text
 16 (not an unc sadly)
-AI/ML Researcher & Builder
-Executive Director @  Synthica
+AI/ML Researcher @ MIT
+Executive Director @ Synthica
 ```
 
 Hey! I'm **Quang Bui** (most call me **Buno**). I work at the intersection of **research and production**: I research AI during the day and build open-source tools during the night.
